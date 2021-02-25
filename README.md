@@ -6,7 +6,7 @@
 * **Junha Kim**
 * Hankuk University of Foreign Studies, **English Linguistics & Software Convergence Major**
 * **Back-end Developer**
-  - 19.04 ~ 19.12 : Likelion X HUFS 7th
+  - 18.04 ~ 18.12 : Likelion X HUFS 7th
   - 19.04 ~ 19.12 : Representative of Likelion X HUFS 8th 
   - 21.01 ~ : TravelFlan Backend Development Intern
 * Skills : Django, Flask, Fast API, React.js, MySQL
