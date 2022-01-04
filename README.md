@@ -10,7 +10,8 @@
   - 19.04 ~ 19.12 : Representative of Likelion X HUFS 8th 
   - 20.12 ~ 21.06 : TravelFlan Backend Development Intern
   - 21.06 ~ 21.08: LINE Fintech Server Development Intern
-  - 21.09 ~ : Line Biz+ Pay Server Dev
+  - 21.09 ~ 21.12: Line Biz+ Pay Server Dev
+  - 21.12 ~ : Naver
 * Skills : Django, Flask, Fast API, React.js, MySQL
   - 🌱 I’m currently learning Java, Srping Boot
 * Awards
