@@ -12,14 +12,22 @@
   - 21.06 ~ 21.08: LINE Fintech Server Development Intern
   - 21.09 ~ 21.12: Line Biz+ Pay Server Dev
   - 21.12 ~ : Naver
-* Skills : Django, Flask, Fast API, React.js, MySQL
-  - 🌱 I’m currently learning Java, Srping Boot
+* Skills : 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](	https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![SprintBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+
 * Awards
   - 2020.11 - **English College Academic festival 1st Place**
     - "A Comparison Study of Two Topic Modeling Approaches with BERT"
   - 2021.01 - **[MultiCampus Coding Masters](https://www.multicampus.com/common/board/boardMstr/124386?bltndSno=12351964) Back-end part 3rd Place**
   - 2021.03 - **[Startup Coding Festival 2021](https://www.wanted.co.kr/events/scofe2021) advance to the second tournament**
-* **[Portfolio](https://www.notion.so/390942d84b33470580dc53a936b316f9)**
 ---
 ## 💻 Online Judge
 
@@ -28,9 +36,6 @@
   
 ---
 ## 📜 Tech Blog
-
-* [Notion](https://www.notion.so/1b6da3e4cb96493494fd2d21e43ccb58)
-* [Velog](https://velog.io/@kjh03160)
 * [Tistory](https://juna-dev.tistory.com/)
 ---
 ## 🏷️ Cards
