@@ -37,7 +37,7 @@
 ---
 ## 📜 Tech Blog
 * [Tistory](https://juna-dev.tistory.com/)
-* Golang, 그대들은 어떻게 할 것인가
+* Naver D2 Hello World 기고 - Golang, 그대들은 어떻게 할 것인가
   * [Golang, 그대들은 어떻게 할 것인가? - 1. 들어가며](https://d2.naver.com/helloworld/8588537)
   * [Golang, 그대들은 어떻게 할 것인가? - 2. Mongo Driver 추상화](https://d2.naver.com/helloworld/6178029)
   * [Golang, 그대들은 어떻게 할 것인가? - 3. error 래핑](https://d2.naver.com/helloworld/2690202)
